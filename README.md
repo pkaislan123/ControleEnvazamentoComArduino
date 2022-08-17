@@ -28,3 +28,8 @@ O sistema eletrônico desse sistema é composto por:
   <img src=https://raw.githubusercontent.com/pkaislan123/ControleEnvazamentoComArduino/main/3.png title="hover text">
 </p>
 
+<p align="center">
+  <img src=https://raw.githubusercontent.com/pkaislan123/ControleEnvazamentoComArduino/main/esquematico.jpeg title="hover text">
+</p>
+
+
